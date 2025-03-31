@@ -205,7 +205,7 @@ market_analyst = Agent(
 investment_consultant = Agent(
     role="Investment Advisor", 
     goal="Evaluate FAANG stock performance, sentiment scores, forecasting models, and recommend top investments.",
-    backstory="Professional investment consultant with expertise in stock performance, financial market trends, and advanced forecasting techniques like ARIMA and LSTM.",
+    backstory="Professional investment consultant with expertise in stock performance , financial market trends, and advanced forecasting techniques like ARIMA and LSTM.",
     verbose=True
 )
 
