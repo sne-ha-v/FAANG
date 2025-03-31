@@ -1,11 +1,11 @@
 # FAANG AI Stock Analysis Dashboard
 
 ## Overview
-The FAANG AI Stock Analysis Dashboard is a powerful web application that leverages advanced machine learning techniques, including ARIMA-LSTM hybrid forecasting models, to analyze and predict stock performance for Facebook (Meta), Apple, Amazon, Netflix, and Google. This tool combines real-time stock data, AI-related news sentiment analysis, and sophisticated forecasting models to provide data-driven investment recommendations for FAANG stocks.
+The FAANG AI Stock Analysis Dashboard is a powerful web application that leverages advanced machine learning techniques, including ARIMA-LSTM hybrid forecasting models, to analyze and predict stock performance for Facebook (Meta), Apple, Amazon, Netflix, and Google. This tool combines real-time stock data, Financial-related news sentiment analysis, and sophisticated forecasting models to provide data-driven investment recommendations for FAANG stocks.
 
 ## Features
 - **Real-time Stock Data**: Access current pricing, volume, P/E ratios, and other key financial metrics for FAANG companies
-- **AI News Sentiment Analysis**: Track and analyze sentiment from AI-related news for each FAANG company
+- **Financial News Sentiment Analysis**: Track and analyze sentiment from Financial-related news for each FAANG company
 - **Historical Performance Analysis**: Visualize and compare 3-year historical trends with interactive charts
 - **Hybrid ARIMA-LSTM Forecasting**: Generate 5-day stock price predictions using a sophisticated hybrid model
 - **AI-Powered Investment Recommendations**: Receive data-driven investment advice based on multiple factors
@@ -50,7 +50,7 @@ The application will be available at http://localhost:8502 in your web browser.
 ### Current Data Tab
 - View the latest stock prices, P/E ratios, and market capitalization for all FAANG companies
 - See Lag-1 analysis showing day, month, and year price changes
-- Review AI news sentiment scores with recent headlines
+- Review financial news sentiment scores with recent headlines
 
 ### Historical Trends Tab
 - Visualize 3-year price trends for selected FAANG stocks
