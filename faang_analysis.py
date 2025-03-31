@@ -198,14 +198,14 @@ data_scientist = Agent(
 market_analyst = Agent(
     role="FINRA Approved Analyst", 
     goal="Analyze FAANG stock trends, financial news sentiment from VADERA, and historical lag analysis.",
-    backstory="Expert in financial markets, specializing in stock trends and AI-driven market insights.",
+    backstory="Expert in financial markets, specializing in stock trends and financial-driven market insights.",
     verbose=True
 )
 
 investment_consultant = Agent(
     role="Investment Advisor", 
     goal="Evaluate FAANG stock performance, sentiment scores, forecasting models, and recommend top investments.",
-    backstory="Professional investment consultant leveraging AI, financial market trends, and advanced forecasting techniques like ARIMA and LSTM.",
+    backstory="Professional investment consultant with expertise in stock performance, financial market trends, and advanced forecasting techniques like ARIMA and LSTM.",
     verbose=True
 )
 
